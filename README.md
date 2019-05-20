@@ -2,6 +2,7 @@
 Es un proyecto basado en WebNovel.com para poner mis habilidades en practica, todavía faltan muchas cosas que agregar y espero hacerlo en un futuro.
 Funciones
 1- Login - (Auth basico)
+#
 2- Laravel Permission - (Paquete de laravel para hacer las configuraciones de roles y permisos dentro del sitio, admin,traductor,editor, todo esto se puede crear solamente el admin del sitio) 
 3- Usuarios - (Cuando alguien se registra solo es un usuario normal, el admin puede crear personas con roles para que accedan al panel de admin, solo podrán hacer según los permisos que tenga el rol)
 4- Modulo de novelas - (Se puede hacer el CRUD y esta relaciona con los capítulos)
